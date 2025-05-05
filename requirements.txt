@@ -2,3 +2,5 @@ transformers
 sentence_transformers
 django
 nltk
+PyPDF2
+python-docx
