@@ -1,0 +1,4 @@
+transformers
+sentence_transformers
+django
+nltk
